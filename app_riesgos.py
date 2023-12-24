@@ -34,7 +34,7 @@ with st.sidebar:
 
 
 #MAIN
-st.title('DS4B RISK SCORE ANALYZER')
+st.title('ANT RISK SCORE ANALYZER')
 
 
 #CALCULAR
