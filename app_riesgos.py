@@ -4,8 +4,8 @@ from streamlit_echarts import st_echarts
 
 #CONFIGURACION DE LA PÁGINA
 st.set_page_config(
-     page_title = 'DS4B Risk Score Analyzer',
-     page_icon = 'DS4B_Logo_Blanco_Vertical_FB.png',
+     page_title = 'ANT Risk Score Analyzer',
+     #page_icon = 'DS4B_Logo_Blanco_Vertical_FB.png',
      layout = 'wide')
 
 #SIDEBAR
