@@ -34,7 +34,7 @@ with st.sidebar:
 
 
 #MAIN
-st.title('ANT RISK SCORE ANALYZER')
+st.title('A.N.T. RISK SCORE ANALYZER')
 
 
 #CALCULAR
