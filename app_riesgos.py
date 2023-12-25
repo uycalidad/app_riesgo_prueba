@@ -31,8 +31,6 @@ with st.sidebar:
     vivienda = 'MORTGAGE'
 
 
-
-
 #MAIN
 st.title('A.N.T. RISK SCORE ANALYZER')
 
@@ -68,6 +66,7 @@ if st.sidebar.button('CALCULAR RIESGO'):
     kpi_ead = int(EL.ead * 100)
     kpi_lgd = int(EL.lgd * 100)
     kpi_el = int(EL.principal * EL.pd * EL.ead * EL.lgd)
+
 
     #Velocimetros
     #Codigo de velocimetros tomado de https://towardsdatascience.com/5-streamlit-components-to-build-better-applications-71e0195c82d4
